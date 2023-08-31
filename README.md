@@ -7,18 +7,18 @@ O IF Eventos é uma solução para facilitar o processo de inscrição, acompanh
 ## 👥 Equipe
 Conheça as mentes por trás do desenvolvimento do IF Eventos:
 
-**Leonardo Campello:** Tutor do projeto, responsável por orientar e fornecer direcionamento estratégico.
-**Felipe Freire:** Desenvolvedor principal, responsável pela implementação das funcionalidades do aplicativo.
-**José Rafael:** Colaborador.
-**Luís Carlos:** Colaborador.
-**Vinicius Alves:** Colaborador.
+**Leonardo Campello:** Tutor do projeto, responsável por orientar e fornecer direcionamento estratégico.<br>
+**Felipe Freire:** Desenvolvedor principal, responsável pela implementação das funcionalidades do aplicativo.<br>
+**José Rafael:** Colaborador.<br>
+**Luís Carlos:** Colaborador.<br>
+**Vinicius Alves:** Colaborador.<br>
 
 ## 🛠️ Tecnologias Utilizadas
-**React Native:** Framework JavaScript para o desenvolvimento de aplicativos móveis multiplataforma.
-**Expo:** Plataforma que simplifica o desenvolvimento e a implantação de aplicativos React Native.
-**MySQL:** Plataforma de desenvolvimento de aplicativos que fornece autenticação, armazenamento em nuvem e banco de dados em tempo real.
-**Redux:** Biblioteca para gerenciamento de estado, garantindo um fluxo de dados previsível na aplicação.
-**Styled** Components: Biblioteca para estilização utilizando componentes JavaScript.
+**React Native:** Framework JavaScript para o desenvolvimento de aplicativos móveis multiplataforma.<br>
+**Expo:** Plataforma que simplifica o desenvolvimento e a implantação de aplicativos React Native.<br>
+**MySQL:** Plataforma de desenvolvimento de aplicativos que fornece autenticação, armazenamento em nuvem e banco de dados em tempo real.<br>
+**Redux:** Biblioteca para gerenciamento de estado, garantindo um fluxo de dados previsível na aplicação.<br>
+**Styled** Components: Biblioteca para estilização utilizando componentes JavaScript.<br>
 
 ## 📝 Metodologia de Desenvolvimento
 O desenvolvimento do IF Eventos segue a metodologia Agile, com foco na entrega contínua e no feedback constante dos usuários. As etapas principais incluem:
