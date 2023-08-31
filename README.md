@@ -39,10 +39,12 @@ Conheça as mentes por trás do desenvolvimento do IF Eventos:
 - QR Code para marcação de presença direto no aplicativo.<br>
 
 ## 🤝 Contribuição
+
 # Este projeto foi desenvolvido com o esforço e dedicação da equipe mencionada acima. Se você deseja contribuir, fique à vontade para:<br>
 
 - Relatar problemas ou bugs através das Issues.<br>
 - Sugerir melhorias e novas funcionalidades.<br>
 - Enviar Pull Requests para correções ou adições.<br>
 <br>
+
 # Lembre-se de seguir nossas diretrizes de contribuição e respeitar o código de conduta.
