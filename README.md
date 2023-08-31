@@ -37,3 +37,12 @@ O desenvolvimento do IF Eventos segue a metodologia Agile, com foco na entrega c
 - Funcionalidade de check-in para registrar a presença nos eventos.
 - Interface intuitiva e responsiva para uma ótima experiência do usuário.
 - QR Code para marcação de presença direto no aplicativo.
+
+## 🤝 Contribuição
+#Este projeto foi desenvolvido com o esforço e dedicação da equipe mencionada acima. Se você deseja contribuir, fique à vontade para:
+
+Relatar problemas ou bugs através das Issues.
+Sugerir melhorias e novas funcionalidades.
+Enviar Pull Requests para correções ou adições.
+
+# Lembre-se de seguir nossas diretrizes de contribuição e respeitar o código de conduta.
