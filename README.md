@@ -1,7 +1,7 @@
-#📱 IF Eventos - Aplicativo React Native
+## 📱 IF Eventos - Aplicativo React Native
 Bem-vindo ao repositório do IF Eventos, um aplicativo móvel desenvolvido para simplificar a participação em eventos científicos para os usuários internos e externos do IF Sertão Pernambucano.
 
-#🚀 Visão Geral
+## 🚀 Visão Geral
 O IF Eventos é uma solução para facilitar o processo de inscrição, acompanhamento e participação nos eventos científicos promovidos pelo IF Sertão Pernambucano. Ele oferece uma interface intuitiva e amigável para os usuários, permitindo que eles se inscrevam em eventos, visualizem informações detalhadas, acessem programações, realizem check-in nos eventos e recebam atualizações em tempo real.
 
 #👥 Equipe
