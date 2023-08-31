@@ -1,0 +1,32 @@
+{
+  "name": "ifeventos_api",
+  "version": "1.0.0",
+  "description": "API do aplicativo IFEventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "API",
+    "IFEventos",
+    "IFSertao-PE"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "consign": "^0.1.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.28.0"
+  }
+}
