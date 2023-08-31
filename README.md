@@ -21,7 +21,7 @@ Conheça as mentes por trás do desenvolvimento do IF Eventos:
 **Styled** Components: Biblioteca para estilização utilizando componentes JavaScript.<br>
 
 ## 📝 Metodologia de Desenvolvimento
-O desenvolvimento do IF Eventos segue a metodologia Agile, com foco na entrega contínua e no feedback constante dos usuários. As etapas principais incluem:
+# O desenvolvimento do IF Eventos segue a metodologia Agile, com foco na entrega contínua e no feedback constante dos usuários. As etapas principais incluem:
 
 **Levantamento de Requisitos:** Entender as necessidades dos usuários internos e externos para definir os recursos e funcionalidades essenciais do aplicativo. <br>
 **Planejamento Sprints:** Dividir o desenvolvimento em sprints de 2 semanas, identificando as tarefas específicas a serem abordadas.<br>
