@@ -23,12 +23,12 @@ Conheça as mentes por trás do desenvolvimento do IF Eventos:
 ## 📝 Metodologia de Desenvolvimento
 O desenvolvimento do IF Eventos segue a metodologia Agile, com foco na entrega contínua e no feedback constante dos usuários. As etapas principais incluem:
 
-**Levantamento de Requisitos:** Entender as necessidades dos usuários internos e externos para definir os recursos e funcionalidades essenciais do aplicativo.
-**Planejamento Sprints:** Dividir o desenvolvimento em sprints de 2 semanas, identificando as tarefas específicas a serem abordadas.
-**Desenvolvimento Iterativo:** Desenvolver as funcionalidades em iterações, com integração contínua para garantir a estabilidade do aplicativo.
-**Testes e QA:** Realizar testes unitários, de integração e de usabilidade para identificar e corrigir problemas.
-**Implantação Contínua:** Publicar versões intermediárias do aplicativo para os usuários internos testarem e fornecerem feedback.
-**Avaliação e Aprendizado:** Após cada sprint, realizar uma reunião de retrospectiva para identificar pontos positivos e oportunidades de melhoria.
+**Levantamento de Requisitos:** Entender as necessidades dos usuários internos e externos para definir os recursos e funcionalidades essenciais do aplicativo.<br>
+**Planejamento Sprints:** Dividir o desenvolvimento em sprints de 2 semanas, identificando as tarefas específicas a serem abordadas.<br>
+**Desenvolvimento Iterativo:** Desenvolver as funcionalidades em iterações, com integração contínua para garantir a estabilidade do aplicativo.<br>
+**Testes e QA:** Realizar testes unitários, de integração e de usabilidade para identificar e corrigir problemas.<br>
+**Implantação Contínua:** Publicar versões intermediárias do aplicativo para os usuários internos testarem e fornecerem feedback.<br>
+**Avaliação e Aprendizado:** Após cada sprint, realizar uma reunião de retrospectiva para identificar pontos positivos e oportunidades de melhoria.<br>
 
 ## 🌟 Destaques
 - Inscrição fácil e rápida em eventos científicos.<br>
